@@ -1,15 +1,18 @@
-# Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Software Engineering (SE) for Machine Learning (ML) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of articles that cover best engineering practiices for building machine learning applications.
+> A curated list of articles that cover best software engineering (SE) practices for building machine learning (ML) applications.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Data Management](#section)
+- [Software Development & Model Training](#training)
+- [Deployment & Maintenance](#deployment)
+- [Social aspects of SE for ML](#social)
+- [Tooling](#tools)
 
 
-## Section
+## Data Management
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -17,12 +20,19 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Another Section
+## Software Development & Model Training
 
-### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+
+## Deployment & Maintenance
+
+
+
+## Social aspects of SE for ML
+
+
+## Tooling
+
 
 
 ## Contribute
