@@ -87,7 +87,8 @@ We only share open source tools, or commercial platforms that offer subtantial f
 - [Spark Machine Learning](https://spark.apache.org/mllib/)
 - [Sacred](https://github.com/IDSIA/sacred)
 - [TensorBoard](https://www.tensorflow.org/tensorboard/)
-
+- [Weights & Biases](https://www.wandb.com/)
+- [Neptune.ai](https://neptune.ai/)
 
 ## Contribute
 
