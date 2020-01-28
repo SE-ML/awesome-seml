@@ -1,6 +1,8 @@
 # Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of articles that cover best software engineering (SE) practices for building machine learning (ML) applications.
+A curated list of articles that cover best software engineering (SE) practices for building machine learning (ML) applications.
+The list contains both academic literature (also called white literature) and non-academic literature (also called grey litierature).
+The latter is classified in 3 categories, based on this [article]().
 
 
 ## Contents
