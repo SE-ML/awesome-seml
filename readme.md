@@ -50,6 +50,8 @@ Note about this section
 
 ## Deployment and Maintenance
 
+Note about this section
+
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) - Some description
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf)
@@ -73,6 +75,18 @@ Note about this section
 
 ## Tooling
 
+We only share open source tools, or commercial platforms that offer subtantial free packages for research.
+
+- [Git Large File System (LFS)](https://git-lfs.github.com/)
+- [Data Version Control (DVC)](https://dvc.org/)
+- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/)
+- [MLFlow](https://mlflow.org/)
+- [Kubeflow](https://www.kubeflow.org/)
+- [Airflow](https://airflow.apache.org/)
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
+- [Spark Machine Learning](https://spark.apache.org/mllib/)
+- [Sacred](https://github.com/IDSIA/sacred)
+- [TensorBoard](https://www.tensorflow.org/tensorboard/)
 
 
 ## Contribute
