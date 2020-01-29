@@ -6,29 +6,23 @@ project you agree to abide by its terms.
 
 ---
 
+## Checklist for updating the list:
+
 Ensure your pull request adheres to the following guidelines:
 
-- [ ] The new article belongs to one category listed in ...
+- [ ] The new article belongs to one category listed in the [Readme] file.
 - [ ] Your additions are ordered alphabetically.
-- [ ] Any category you are creating has the minimum requirement of 3 items. If not, your addition may be inserted into `Misc/Other`.
+- [ ] If the publication is academic or you recommend it for the must-read category, please add the emoticons.
+- [ ] In the PR body, please motivate the change using the following structure: 
+    * [ ] Short desciption:
+    * [ ] Why is it relevant?
+    * [ ] What is the lesson learned from reading the article?
+    * [ ] Is it radically different from the articles written (please say why)?:
 
 Thank you for your suggestions!
 
 
-## Updating your PR
-
-All guidelines for adding new software to the list are listed in [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md).
-
-Recommendations:
-
-- To add a new entry, [edit the README.md file](https://github.com/awesome-selfhosted/awesome-selfhosted/edit/master/README.md) through Github's web interface or a text editor, and send a Pull Request.
-- See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
+## Creating a PR:
 
 
-Thank you for taking the time to work on a PR for Awesome-Selfhosted!
-
-To ensure your PR is dealt with swiftly please check the following:
-
-- [ ] Your submissions are formatted according to the following requirements:
-
-``- [Name](http://homepage/) - Short description, less than 250 characters.``
+Please follow this [article](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for opening a new pull request with a change. 
