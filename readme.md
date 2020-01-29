@@ -14,13 +14,14 @@ The latter is classified in 3 categories, based on this [article]().
 - [Tooling](#tooling)
 
 ⭐️- Must-read
+
 🎓- Scientific publication
 
 ## Cross categories / must read / authorative
 
 Before diving into the entire list, make sure not to miss these must-read articles:
 
-- [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️awesome
+- [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
 
