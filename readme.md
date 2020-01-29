@@ -1,34 +1,34 @@
 # Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of articles that cover software engineering (SE) best practices for building machine learning (ML) applications.
-The list contains both academic literature (also called white literature) and non-academic literature (also called grey literature).
-The latter is classified in 3 categories, based on this [article]().
+
+⭐️ Must-read
+
+🎓 Scientific publication
 
 
 ## Contents
-- [Cross Categories](#)
+
+- [Must Reads](#must-read)
 - [Data Management](#data-management)
-- [Software Development & Model Training](#software-development-and-model-training)
-- [Deployment & Maintenance](#deployment-and-maintenance)
-- [Social aspects of SE for ML](#social-aspects-of-se-for-ml)
+- [Managing Model Training](#managing-model-training)
+- [Deployment & Operation](#deployment-and-operation)
+- [Social aspects](#social-aspects)
 - [Tooling](#tooling)
 
-⭐️- Must-read
-
-🎓- Scientific publication
-
-## Cross categories / must read / authorative
+## Must read
 
 Before diving into the entire list, make sure not to miss these must-read articles:
 
 - [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
+- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐️
 
 
 ## Data Management
 
-Note about this section
+How to manage the data sets you use in machine learning.
 
 - [A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019](https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective) 🎓
 - [Data management challenges in production machine learning](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf)
@@ -38,9 +38,9 @@ Note about this section
 
 
 
-## Software Development and Model Training
+## Managing Model Training
 
-Note about this section
+How to organize your model training experiments.
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
@@ -54,12 +54,12 @@ Note about this section
 - [What Went Wrong and Why? Diagnosing Situated Interaction Failures in the Wild](https://www.microsoft.com/en-us/research/publication/what-went-wrong-and-why-diagnosing-situated-interaction-failures-in-the-wild/) 🎓
 
 
-## Deployment and Maintenance
+## Deployment and Operation
 
-Note about this section
+How to deploy and operate your models in a production environment.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
-- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) - Some description
+- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐️
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 🎓
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
 - [Machine Learning Logistics](https://mapr.com/ebook/machine-learning-logistics/)
@@ -73,9 +73,9 @@ Note about this section
 - [What’s your ML Test Score? A rubric for ML production systems](https://research.google/pubs/pub45742/) 🎓
 
 
-## Social aspects of SE for ML
+## Social aspects
 
-How to organize teams and projects to ensure effective collaboration?
+How to organize teams and projects to ensure effective collaboration.
 
 - [How do teams work together on an automated machine learning project?](https://azure.microsoft.com/en-us/blog/how-do-teams-work-together-on-an-automated-machine-learning-project/)
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
@@ -83,6 +83,8 @@ How to organize teams and projects to ensure effective collaboration?
 - [Team Data Science Process Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
 
 ## Tooling
+
+Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
