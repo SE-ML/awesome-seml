@@ -12,7 +12,7 @@ A curated list of articles that cover software engineering (SE) best practices f
 - [Broad Overviews](#broad-overviews)
 - [Data Management](#data-management)
 - [Managing Model Training](#managing-model-training)
-- [Deployment & Operation](#deployment-and-operation)
+- [Deployment and Operation](#deployment-and-operation)
 - [Social aspects](#social-aspects)
 - [Tooling](#tooling)
 
