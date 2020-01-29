@@ -1,7 +1,7 @@
 # Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of articles that cover best software engineering (SE) practices for building machine learning (ML) applications.
-The list contains both academic literature (also called white literature) and non-academic literature (also called grey litierature).
+A curated list of articles that cover software engineering (SE) best practices for building machine learning (ML) applications.
+The list contains both academic literature (also called white literature) and non-academic literature (also called grey literature).
 The latter is classified in 3 categories, based on this [article]().
 
 
@@ -16,7 +16,7 @@ The latter is classified in 3 categories, based on this [article]().
 
 ## Cross categories / must read / authorative
 
-Note about this section
+Before diving into the entire list, make sure not to miss these must-read articles:
 
 - [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) - awesome
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -71,6 +71,9 @@ Note about this section
 
 
 ## Social aspects of SE for ML
+
+How to organize teams and projects to ensure effective collaboration?
+
 - [How do teams work together on an automated machine learning project?](https://azure.microsoft.com/en-us/blog/how-do-teams-work-together-on-an-automated-machine-learning-project/)
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 - [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
@@ -78,7 +81,7 @@ Note about this section
 
 ## Tooling
 
-We only share open source tools, or commercial platforms that offer subtantial free packages for research.
+We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
 - [Git Large File System (LFS)](https://git-lfs.github.com/)
 - [Data Version Control (DVC)](https://dvc.org/)
