@@ -10,7 +10,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- [ ] The new article belongs to one category listed in the [Readme] file.
+- [ ] The new article belongs to one category listed in the [Readme](https://github.com/NullConvergence/awesome-seml/blob/master/readme.md) file.
 - [ ] Your additions are ordered alphabetically.
 - [ ] If the publication is academic or you recommend it for the must-read category, please add the emoticons.
 - [ ] In the PR body, please motivate the change using the following structure: 
