@@ -13,21 +13,23 @@ The latter is classified in 3 categories, based on this [article]().
 - [Social aspects of SE for ML](#social-aspects-of-se-for-ml)
 - [Tooling](#tooling)
 
+⭐️- Must-read
+🎓- Scientific publication
 
 ## Cross categories / must read / authorative
 
 Before diving into the entire list, make sure not to miss these must-read articles:
 
-- [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) - awesome
-- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
-- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
+- [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️awesome
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
+- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
 
 
 ## Data Management
 
 Note about this section
 
-- [A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019](https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective)
+- [A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019](https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective) 🎓
 - [Data management challenges in production machine learning](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf)
 - [How to organize data labelling for ML](https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/)
 - [The curse of big data labeling and three ways to solve it ](https://aws.amazon.com/blogs/apn/the-curse-of-big-data-labeling-and-three-ways-to-solve-it/)
@@ -41,14 +43,14 @@ Note about this section
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
-- [Machine learning: The high interest credit card of technical debt](https://research.google/pubs/pub43146/) - Awesome awessome
-- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf)
-- [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf)
+- [Machine learning: The high interest credit card of technical debt](https://research.google/pubs/pub43146/) 🎓
+- [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf) 🎓
+- [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf) 🎓
 - [Preparing and Architecting for Machine Learning](https://www.gartner.com/binaries/content/assets/events/keywords/catalyst/catus8/preparing_and_architecting_for_machine_learning.pdf)
 - [Preliminary Systematic Literature Review of Machine Learning System Development Process](https://arxiv.org/abs/1910.05528)
-- [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1)
+- [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1) 🎓
 - [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
-- [What Went Wrong and Why? Diagnosing Situated Interaction Failures in the Wild](https://www.microsoft.com/en-us/research/publication/what-went-wrong-and-why-diagnosing-situated-interaction-failures-in-the-wild/)
+- [What Went Wrong and Why? Diagnosing Situated Interaction Failures in the Wild](https://www.microsoft.com/en-us/research/publication/what-went-wrong-and-why-diagnosing-situated-interaction-failures-in-the-wild/) 🎓
 
 
 ## Deployment and Maintenance
@@ -57,17 +59,17 @@ Note about this section
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) - Some description
-- [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf)
-- [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html)
+- [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 🎓
+- [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
 - [Machine Learning Logistics](https://mapr.com/ebook/machine-learning-logistics/)
 - [Machine learning: Moving from experiments to production](https://blog.codecentric.de/en/2019/03/machine-learning-experiments-production/)
 - [ML Ops: Machine Learning as an engineered disciplined](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-- [Model Governance Reducing the Anarchy of Production](https://www.usenix.org/conference/atc18/presentation/sridhar)
+- [Model Governance Reducing the Anarchy of Production](https://www.usenix.org/conference/atc18/presentation/sridhar) 🎓
 - [ModelOps: Cloud-based lifecycle management for reliable and trusted AI](http://hummer.io/docs/2019-ic2e-modelops.pdf)
 - [Operational Machine Learning](https://www.kdnuggets.com/2018/04/operational-machine-learning-successful-mlops.html)
-- [TFX: A tensorflow-based Production-Scale ML Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true)
-- [Versioning for end-to-end machine learning pipelines](https://doi.org/10.1145/3076246.3076248)
-- [What’s your ML Test Score? A rubric for ML production systems](https://research.google/pubs/pub45742/)
+- [TFX: A tensorflow-based Production-Scale ML Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true) 🎓
+- [Versioning for end-to-end machine learning pipelines](https://doi.org/10.1145/3076246.3076248) 🎓
+- [What’s your ML Test Score? A rubric for ML production systems](https://research.google/pubs/pub45742/) 🎓
 
 
 ## Social aspects of SE for ML
