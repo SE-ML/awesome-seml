@@ -9,22 +9,19 @@ A curated list of articles that cover software engineering (SE) best practices f
 
 ## Contents
 
-- [Must Reads](#must-read)
+- [Broad Overviews](#broad-overviews)
 - [Data Management](#data-management)
 - [Managing Model Training](#managing-model-training)
 - [Deployment & Operation](#deployment-and-operation)
 - [Social aspects](#social-aspects)
 - [Tooling](#tooling)
 
-## Must read
+## Broad Overviews
 
-Before diving into the entire list, make sure not to miss these must-read articles:
+These publications cover all aspects.
 
 - [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
-- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
-- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐️
-
 
 ## Data Management
 
@@ -75,12 +72,14 @@ How to deploy and operate your models in a production environment.
 
 ## Social aspects
 
-How to organize teams and projects to ensure effective collaboration.
+How to organize teams and projects to ensure effective collaboration and accountability.
 
 - [How do teams work together on an automated machine learning project?](https://azure.microsoft.com/en-us/blog/how-do-teams-work-together-on-an-automated-machine-learning-project/)
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 - [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 - [Team Data Science Process Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
+- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
+
 
 ## Tooling
 
