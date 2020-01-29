@@ -17,7 +17,7 @@ Ensure your pull request adheres to the following guidelines:
     * [ ] Short desciption:
     * [ ] Why is it relevant?
     * [ ] What is the lesson learned from reading the article?
-    * [ ] Is it radically different from the articles written (please say why)?:
+    * [ ] How does it add new insights over the articles already listed?
 
 Thank you for your suggestions!
 
