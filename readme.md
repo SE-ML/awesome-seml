@@ -38,7 +38,7 @@ How to manage the data sets you use in machine learning.
 
 
 
-## Managing Model Training
+## Model Training
 
 How to organize your model training experiments.
 
@@ -72,7 +72,7 @@ How to deploy and operate your models in a production environment.
 - [What’s your ML Test Score? A rubric for ML production systems](https://research.google/pubs/pub45742/) 🎓
 
 
-## Social aspects
+## Social Aspects
 
 How to organize teams and projects to ensure effective collaboration and accountability.
 
