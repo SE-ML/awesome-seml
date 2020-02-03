@@ -20,8 +20,10 @@ A curated list of articles that cover software engineering (SE) best practices f
 
 These publications cover all aspects.
 
+- [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)🎓⭐️
 - [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
+
 
 
 ## Data Management
