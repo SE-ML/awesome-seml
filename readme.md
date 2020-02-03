@@ -89,18 +89,21 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-- [Git Large File System (LFS)](https://git-lfs.github.com/)
+- [Airflow](https://airflow.apache.org/)
+- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
+- [Ax](https://ax.dev)
 - [Data Version Control (DVC)](https://dvc.org/)
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/)
-- [MLFlow](https://mlflow.org/)
+- [Git Large File System (LFS)](https://git-lfs.github.com/)
+- [HParams](https://github.com/PetrochukM/HParams)
 - [Kubeflow](https://www.kubeflow.org/)
-- [Airflow](https://airflow.apache.org/)
-- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
+- [MLFlow](https://mlflow.org/
+- [Neptune.ai](https://neptune.ai/)
 - [Spark Machine Learning](https://spark.apache.org/mllib/)
 - [Sacred](https://github.com/IDSIA/sacred)
 - [TensorBoard](https://www.tensorflow.org/tensorboard/)
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
 - [Weights & Biases](https://www.wandb.com/)
-- [Neptune.ai](https://neptune.ai/)
 
 ## Contribute
 
