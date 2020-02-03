@@ -110,7 +110,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcomed! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
