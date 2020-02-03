@@ -1,4 +1,4 @@
-# Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
 A curated list of articles that cover software engineering (SE) best practices for building machine learning (ML) applications.
 
