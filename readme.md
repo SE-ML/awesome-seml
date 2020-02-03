@@ -97,7 +97,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Git Large File System (LFS)](https://git-lfs.github.com/)
 - [HParams](https://github.com/PetrochukM/HParams)
 - [Kubeflow](https://www.kubeflow.org/)
-- [MLFlow](https://mlflow.org/
+- [MLFlow](https://mlflow.org/)
 - [Neptune.ai](https://neptune.ai/)
 - [Spark Machine Learning](https://spark.apache.org/mllib/)
 - [Sacred](https://github.com/IDSIA/sacred)
