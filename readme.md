@@ -102,13 +102,12 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Kubeflow](https://www.kubeflow.org/)
 - [MLFlow](https://mlflow.org/)
 - [Neptune.ai](https://neptune.ai/)
+- [Neuraxle](https://github.com/Neuraxio/Neuraxle)
 - [Spark Machine Learning](https://spark.apache.org/mllib/)
 - [Sacred](https://github.com/IDSIA/sacred)
 - [TensorBoard](https://www.tensorflow.org/tensorboard/)
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
 - [Weights & Biases](https://www.wandb.com/)
-- [Neptune.ai](https://neptune.ai/)
-- [Neuraxle](https://github.com/Neuraxio/Neuraxle)
 
 
 ## Contribute
