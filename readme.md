@@ -1,4 +1,4 @@
-# Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
 A curated list of articles that cover software engineering (SE) best practices for building machine learning (ML) applications.
 
@@ -20,8 +20,10 @@ A curated list of articles that cover software engineering (SE) best practices f
 
 These publications cover all aspects.
 
-- [Software Engineering for Machine Learning: A Case Study](https://doi.org/10.1109/ICSE-SEIP.2019.00042) 🎓⭐️
+- [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐️
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐️
+
 
 
 ## Data Management
@@ -29,19 +31,19 @@ These publications cover all aspects.
 How to manage the data sets you use in machine learning.
 
 - [A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019](https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective) 🎓
+- [Automating Large-Scale Data Quality Verification](http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf) 🎓
 - [Data management challenges in production machine learning](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf)
 - [How to organize data labelling for ML](https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/)
 - [The curse of big data labeling and three ways to solve it](https://aws.amazon.com/blogs/apn/the-curse-of-big-data-labeling-and-three-ways-to-solve-it/)
+- [The Data Linter: Lightweight, Automated Sanity Checking for ML Data Sets](http://learningsys.org/nips17/assets/papers/paper_19.pdf) 🎓
 - [The ultimate guide to data labeling for ML](https://www.cloudfactory.com/data-labeling-guide)
 
 
-
-## Managing Model Training
+## Model Training
 
 How to organize your model training experiments.
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
-- [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐️
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
 - [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf) 🎓
 - [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf) 🎓
@@ -71,10 +73,11 @@ How to deploy and operate your models in a production environment.
 - [What’s your ML Test Score? A rubric for ML production systems](https://research.google/pubs/pub45742/) 🎓
 
 
-## Social aspects
+## Social Aspects
 
 How to organize teams and projects to ensure effective collaboration and accountability.
 
+- [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 🎓
 - [How do teams work together on an automated machine learning project?](https://azure.microsoft.com/en-us/blog/how-do-teams-work-together-on-an-automated-machine-learning-project/)
 - [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
@@ -89,23 +92,28 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-- [Git Large File System (LFS)](https://git-lfs.github.com/)
+- [Airflow](https://airflow.apache.org/)
+- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
+- [Ax](https://ax.dev)
 - [Data Version Control (DVC)](https://dvc.org/)
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/)
-- [MLFlow](https://mlflow.org/)
+- [Git Large File System (LFS)](https://git-lfs.github.com/)
+- [HParams](https://github.com/PetrochukM/HParams)
 - [Kubeflow](https://www.kubeflow.org/)
-- [Airflow](https://airflow.apache.org/)
-- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
+- [MLFlow](https://mlflow.org/)
+- [Neptune.ai](https://neptune.ai/)
 - [Spark Machine Learning](https://spark.apache.org/mllib/)
 - [Sacred](https://github.com/IDSIA/sacred)
 - [TensorBoard](https://www.tensorflow.org/tensorboard/)
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
 - [Weights & Biases](https://www.wandb.com/)
 - [Neptune.ai](https://neptune.ai/)
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle)
 
+
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcomed! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
