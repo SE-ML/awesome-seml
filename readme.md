@@ -7,6 +7,13 @@ A curated list of articles that cover software engineering (SE) best practices f
 🎓 Scientific publication
 
 
+<br>
+Based on this literature, we compiled a survey on the adoption of sofware engineering practices for applications with machine learning components.
+
+
+Feel free to [take and share the survey](https://se-ml.github.io/survey/).
+
+
 ## Contents
 
 - [Broad Overviews](#broad-overviews)
