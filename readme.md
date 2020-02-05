@@ -107,6 +107,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Git Large File System (LFS)](https://git-lfs.github.com/)
 - [HParams](https://github.com/PetrochukM/HParams)
 - [Kubeflow](https://www.kubeflow.org/)
+- [Label Studio](https://github.com/heartexlabs/label-studio)
 - [MLFlow](https://mlflow.org/)
 - [Neptune.ai](https://neptune.ai/)
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle)
