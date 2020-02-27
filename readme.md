@@ -51,9 +51,12 @@ How to manage the data sets you use in machine learning.
 How to organize your model training experiments.
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
+- [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 🎓
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
 - [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf) 🎓
+- [On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach](https://link.springer.com/article/10.1023/A:1009752403260) 🎓⭐️
 - [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf) 🎓
+- [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
 - [Preparing and Architecting for Machine Learning](https://www.gartner.com/en/documents/3889770/preparing-and-architecting-for-machine-learning-2018-upd)
 - [Preliminary Systematic Literature Review of Machine Learning System Development Process](https://arxiv.org/abs/1910.05528) 🎓
 - [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1)
