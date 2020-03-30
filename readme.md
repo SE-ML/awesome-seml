@@ -21,7 +21,7 @@ Feel free to [take and share the survey!](https://se-ml.github.io/survey/)
 - [Data Management](#data-management)
 - [Model Training](#model-training)
 - [Deployment and Operation](#deployment-and-operation)
-- [Social aspects](#social-aspects)
+- [Social Aspects](#social-aspects)
 - [Tooling](#tooling)
 
 ## Broad Overviews
