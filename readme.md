@@ -3,7 +3,7 @@
 Software Engineering for Machine Learning are techniques and guidelines for building ML applications that do not concern the core ML problem  -- e.g. the development of new algorithms -- but rather the surrounding activities like data ingestion, coding, testing, versioning, deployment, quality control, and team collaboration.
 Good software engineering practices enhance development, deployment and maintenance of production level applications using machine learning components.
 
-⭐️ Must-read
+⭐ Must-read
 
 🎓 Scientific publication
 
@@ -29,9 +29,9 @@ Feel free to [take and share the survey!](https://se-ml.github.io/survey/)
 These publications cover all aspects.
 
 - [Best Practices for Machine Learning Applications](https://pdfs.semanticscholar.org/2869/6212a4a204783e9dd3953f06e103c02c6972.pdf)
-- [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐️
-- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐️
-- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐️
+- [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
 
 
 
@@ -56,7 +56,7 @@ How to organize your model training experiments.
 - [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 🎓
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
 - [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf) 🎓
-- [On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach](https://link.springer.com/article/10.1023/A:1009752403260) 🎓⭐️
+- [On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach](https://link.springer.com/article/10.1023/A:1009752403260) 🎓⭐
 - [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf) 🎓
 - [Pitfalls and Best Practices in Algorithm Configuration](https://www.jair.org/index.php/jair/article/download/11420/26488/) 🎓
 - [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
@@ -72,7 +72,7 @@ How to organize your model training experiments.
 How to deploy and operate your models in a production environment.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
-- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐️
+- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 🎓
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
 - [Machine Learning Logistics](https://mapr.com/ebook/machine-learning-logistics/)
@@ -98,7 +98,7 @@ How to organize teams and projects to ensure effective collaboration and account
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 - [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 - [Team Data Science Process Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
-- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐️
+- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 
 
 ## Tooling
