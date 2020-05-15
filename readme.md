@@ -22,6 +22,7 @@ Feel free to [take and share the survey!](https://se-ml.github.io/survey/)
 - [Model Training](#model-training)
 - [Deployment and Operation](#deployment-and-operation)
 - [Social Aspects](#social-aspects)
+- [Governance](#governance)
 - [Tooling](#tooling)
 
 ## Broad Overviews
@@ -98,8 +99,11 @@ How to organize teams and projects to ensure effective collaboration and account
 - [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 - [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 - [Team Data Science Process Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
-- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 
+
+## Governance
+- [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
+- [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
 
 ## Tooling
 
