@@ -109,24 +109,24 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-- [Airflow](https://airflow.apache.org/)
-- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
-- [Ax](https://ax.dev)
-- [Data Version Control (DVC)](https://dvc.org/)
-- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/)
-- [Git Large File System (LFS)](https://git-lfs.github.com/)
-- [HParams](https://github.com/PetrochukM/HParams)
-- [Kubeflow](https://www.kubeflow.org/)
-- [Label Studio](https://github.com/heartexlabs/label-studio)
-- [MLFlow](https://mlflow.org/)
-- [Neptune.ai](https://neptune.ai/)
-- [Neuraxle](https://github.com/Neuraxio/Neuraxle)
-- [OpenML](https://www.openml.org)
-- [Spark Machine Learning](https://spark.apache.org/mllib/)
-- [Sacred](https://github.com/IDSIA/sacred)
-- [TensorBoard](https://www.tensorflow.org/tensorboard/)
-- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/)
-- [Weights & Biases](https://www.wandb.com/)
+- [Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule and monitor workflows.
+- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
+- [Ax](https://ax.dev) - Ax is a platform for optimizing any kind of experiment, including machine learning experiments, A/B tests, and simulations.
+- [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool that takes advantage of the existing engineering toolset such as Git, CI/CD, etc.
+- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Facets is a platform that contains  robust visualizations to aid in understanding and analyzing machine learning datasets.
+- [Git Large File System (LFS)](https://git-lfs.github.com/) - Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+- [HParams](https://github.com/PetrochukM/HParams) - HParams is a thoughtful approach to configuration management for machine learning projects.
+- [Kubeflow](https://www.kubeflow.org/) - Kubeflow is a platform for data scientists who want to build and experiment with ML pipelines.
+- [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format.
+- [MLFlow](https://mlflow.org/) - MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry.
+- [Neptune.ai](https://neptune.ai/) - Neptune is an experiment tracking tool bringing organization and collaboration to data science projects.
+- [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Neuraxle is a Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects.
+- [OpenML](https://www.openml.org) - The Open Machine Learning project is an inclusive movement to build an open, organized, online ecosystem for machine learning.
+- [Spark Machine Learning](https://spark.apache.org/mllib/) - MLlib is Spark’s scalable machine learning library consisting of common learning algorithms and utilities.
+- [Sacred](https://github.com/IDSIA/sacred) -Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+- [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines.
+- [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
 
 ## Contribute
