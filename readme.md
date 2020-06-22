@@ -118,7 +118,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
 - [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
-- [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry.
+- [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, deployment, and a central model registry.
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - TAn inclusive movement to build an open, organized, online ecosystem for machine learning.
