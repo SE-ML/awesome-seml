@@ -113,7 +113,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 - [Ax](https://ax.dev) - Optimize any kind of experiment, including machine learning experiments, A/B tests, and simulations.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
-- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding and analyzing machine learning datasets.
+- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
 - [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets, and graphics with text pointers inside Git.
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
@@ -122,10 +122,10 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - TAn inclusive movement to build an open, organized, online ecosystem for machine learning.
-- [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s scalable machine learning library consisting of common learning algorithms and utilities.
+- [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s machine learning library consisting of common learning algorithms and utilities.
 - [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
-- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines.
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 - [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
 
