@@ -114,7 +114,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Ax](https://ax.dev) - Optimize any kind of experiment, including machine learning experiments, A/B tests, and simulations.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
-- [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets, and graphics with text pointers inside Git.
+- [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets with text pointers inside Git.
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
 - [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
