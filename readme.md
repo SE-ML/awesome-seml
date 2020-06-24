@@ -122,7 +122,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, deployment, and a central model registry.
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
-- [OpenML](https://www.openml.org) - TAn inclusive movement to build an open, organized, online ecosystem for machine learning.
+- [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 - [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
