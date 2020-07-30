@@ -9,10 +9,12 @@ Good software engineering practices enhance development, deployment and maintena
 
 
 <br>
-Based on this literature, we compiled a survey on the adoption of sofware engineering practices for applications with machine learning components.
+Based on this literature, we compiled a survey on the adoption of software engineering practices for applications with machine learning components. 
 
+This survey research is described in the publication [Adoption and Effects of Software Engineering Best Practices in Machine Learning](https://arxiv.org/abs/2007.14130).
 
 Feel free to [take and share the survey](https://se-ml.github.io/survey) and to [read more](https://se-ml.github.io/practices)!
+
 
 
 ## Contents
@@ -33,7 +35,7 @@ These resources cover all aspects.
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
 - [Machine Learning Engineering Best Practices](https://se-ml.github.io/practices/) ⭐
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐
-- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
+- [wtware Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
 
 
 ## Data Management
