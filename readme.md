@@ -9,9 +9,9 @@ Good software engineering practices enhance development, deployment and maintena
 
 
 <br>
-Based on this literature, we compiled a survey on the adoption of software engineering practices for applications with machine learning components. 
+Based on this literature, we compiled a survey on the adoption of software engineering practices for applications with machine learning components.
 
-This survey research is described in the publication [Adoption and Effects of Software Engineering Best Practices in Machine Learning](https://arxiv.org/abs/2007.14130).
+The survey research is described in the publication [Adoption and Effects of Software Engineering Best Practices in Machine Learning](https://arxiv.org/abs/2007.14130).
 
 Feel free to [take and share the survey](https://se-ml.github.io/survey) and to [read more](https://se-ml.github.io/practices)!
 
