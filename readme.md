@@ -102,6 +102,7 @@ How to organize teams and projects to ensure effective collaboration and account
 
 
 ## Governance
+- [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873) 🎓
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
 
