@@ -61,6 +61,7 @@ How to organize your model training experiments.
 - [Nitpicking Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
 - [On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach](https://link.springer.com/article/10.1023/A:1009752403260) 🎓⭐
 - [On human intellect and machine failures: Troubleshooting integrative machine learning systems](https://arxiv.org/pdf/1611.08309.pdf) 🎓
+- [Pitfalls and Best Practices in Software Analytics Modelling](https://dl.acm.org/doi/10.1145/3183519.3183547) 
 - [Pitfalls and Best Practices in Algorithm Configuration](https://www.jair.org/index.php/jair/article/download/11420/26488/) 🎓
 - [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
 - [Preparing and Architecting for Machine Learning](https://www.gartner.com/en/documents/3889770/preparing-and-architecting-for-machine-learning-2018-upd)
