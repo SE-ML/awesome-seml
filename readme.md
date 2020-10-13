@@ -113,15 +113,20 @@ Tooling can make your life easier.
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
+- [Archai](https://github.com/microsoft/archai) - Neural architecture search.
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
 - [Ax](https://ax.dev) - Optimize any kind of experiment, including machine learning experiments, A/B tests, and simulations.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
+- [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
 - [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets with text pointers inside Git.
+- [Great Expectations](https://github.com/great-expectations/great_expectations) - Data validation and testing with integration in pipelines.
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
 - [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
+- [LiFT](https://github.com/linkedin/LiFT) - Linkedin fairness toolkit.
 - [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, deployment, and a central model registry.
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates the generation of model cards; for model documentation.
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
