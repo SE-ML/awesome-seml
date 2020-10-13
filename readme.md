@@ -114,8 +114,6 @@ We only share open source tools, or commercial platforms that offer substantial 
 
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
 - [Archai](https://github.com/microsoft/archai) - Neural architecture search.
-- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
-- [Ax](https://ax.dev) - Optimize any kind of experiment, including machine learning experiments, A/B tests, and simulations.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
 - [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
@@ -131,7 +129,6 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
-- [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 - [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
