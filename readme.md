@@ -29,7 +29,7 @@ Feel free to [take and share the survey](https://se-ml.github.io/survey) and to 
 ## Broad Overviews
 
 These resources cover all aspects.
-
+- [AI Engineering: 11 Foundational Practices](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf) ⭐
 - [Best Practices for Machine Learning Applications](https://pdfs.semanticscholar.org/2869/6212a4a204783e9dd3953f06e103c02c6972.pdf)
 - [Engineering Best Practices for Machine Learning](https://se-ml.github.io/practices/) ⭐
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
@@ -44,6 +44,7 @@ How to manage the data sets you use in machine learning.
 - [A Survey on Data Collection for Machine Learning A Big Data - AI Integration Perspective_2019](https://deepai.org/publication/a-survey-on-data-collection-for-machine-learning-a-big-data-ai-integration-perspective) 🎓
 - [Automating Large-Scale Data Quality Verification](http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf) 🎓
 - [Data management challenges in production machine learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf)
+- [Data Validation for Machine Learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) 🎓
 - [How to organize data labelling for ML](https://www.altexsoft.com/blognp/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/)
 - [The curse of big data labeling and three ways to solve it](https://aws.amazon.com/blogs/apn/the-curse-of-big-data-labeling-and-three-ways-to-solve-it/)
 - [The Data Linter: Lightweight, Automated Sanity Checking for ML Data Sets](http://learningsys.org/nips17/assets/papers/paper_19.pdf) 🎓
