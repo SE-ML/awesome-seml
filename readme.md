@@ -76,6 +76,7 @@ How to organize your model training experiments.
 How to deploy and operate your models in a production environment.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
+- [Building Continuous Integration Services for Machine Learning](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdfhttp://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf) 🎓
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 🎓
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
