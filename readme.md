@@ -140,6 +140,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
+- [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 - [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
 
