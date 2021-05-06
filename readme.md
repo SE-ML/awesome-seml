@@ -119,6 +119,7 @@ Tooling can make your life easier.
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
+- [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
 - [Archai](https://github.com/microsoft/archai) - Neural architecture search.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
