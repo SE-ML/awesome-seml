@@ -135,7 +135,8 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
-- [Robustness Metrics](https://github.com/google-research/robustness_metrics) - Lghtweight modules to evaluate the robustness of classification models.
+- [Robustness Metrics](https://github.com/google-research/robustness_metrics) - Lightweight modules to evaluate the robustness of classification models.
+- [Seldon Core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
