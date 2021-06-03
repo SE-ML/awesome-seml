@@ -106,6 +106,7 @@ How to organize teams and projects to ensure effective collaboration and account
 
 
 ## Governance
+- [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 🎓
 - [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf) 
 - [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873) 🎓
 - [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 🎓
