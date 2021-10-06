@@ -127,6 +127,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines.
 - [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
+- [DagsHub](http://dagshub.com/) - Built on popular open-source tools and formats, DagsHub is a platform for data scientists to version their data, models, experiments, and code. It allows the team to easily share, review, and reuse work, providing a GitHub experience for machine learning.
 
 
 ## Contribute
