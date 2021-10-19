@@ -138,6 +138,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [REVISE: REvealing VIsual biaSEs](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 - [Robustness Metrics](https://github.com/google-research/robustness_metrics) - Lightweight modules to evaluate the robustness of classification models.
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
