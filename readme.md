@@ -35,7 +35,7 @@ These resources cover all aspects.
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐
 - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
-- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478)
+- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478)🎓
 
 
 ## Data Management
