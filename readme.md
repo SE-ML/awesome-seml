@@ -35,7 +35,6 @@ These resources cover all aspects.
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) ⭐
 - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
-- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478)🎓
 
 
 ## Data Management
@@ -114,7 +113,8 @@ How to organize teams and projects to ensure effective collaboration and account
 - [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 🎓
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
-
+- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478) 🎓
+- 
 ## Tooling
 
 Tooling can make your life easier.
