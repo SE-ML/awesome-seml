@@ -114,7 +114,7 @@ How to organize teams and projects to ensure effective collaboration and account
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
 - [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478) 🎓
-- 
+
 ## Tooling
 
 Tooling can make your life easier.
