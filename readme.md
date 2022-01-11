@@ -29,6 +29,7 @@ Feel free to [take and share the survey](https://se-ml.github.io/survey) and to 
 ## Broad Overviews
 
 These resources cover all aspects.
+- [A software engineering perspective on engineering machine learning systems: State of the art and challenges](https://www.sciencedirect.com/science/article/abs/pii/S016412122100128X), [@Arxiv](https://arxiv.org/ftp/arxiv/papers/2012/2012.07919.pdf) 🎓⭐
 - [AI Engineering: 11 Foundational Practices](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf) ⭐
 - [Best Practices for Machine Learning Applications](https://pdfs.semanticscholar.org/2869/6212a4a204783e9dd3953f06e103c02c6972.pdf)
 - [Engineering Best Practices for Machine Learning](https://se-ml.github.io/practices/) ⭐
