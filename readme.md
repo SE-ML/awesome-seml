@@ -121,6 +121,7 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
+- [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
 - [Archai](https://github.com/microsoft/archai) - Neural architecture search.
