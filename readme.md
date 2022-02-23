@@ -92,6 +92,7 @@ How to deploy and operate your models in a production environment.
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) 🎓
 - [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/abs/2011.03395) 🎓
 - [Versioning for end-to-end machine learning pipelines](https://doi.org/10.1145/3076246.3076248) 🎓
+- [From Training to Serving: Machine Learning Models with Terraform](https://www.hashicorp.com/resources/from-training-serving-machine-learning-models-terraform) ⭐
 
 
 
