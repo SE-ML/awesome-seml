@@ -81,6 +81,7 @@ How to deploy and operate your models in a production environment.
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 🎓
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
+- [GreatAI: An easy-to-adopt framework for robust end-to-end AI deployments](https://great-ai.scoutinscience.com/explanation/) 🎓
 - [Machine Learning Logistics](https://mapr.com/ebook/machine-learning-logistics/)
 - [Machine learning: Moving from experiments to production](https://blog.codecentric.de/en/2019/03/machine-learning-experiments-production/)
 - [ML Ops: Machine Learning as an engineered disciplined](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
@@ -130,6 +131,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
 - [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets with text pointers inside Git.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Data validation and testing with integration in pipelines.
+- [GreatAI](https://great-ai.scoutinscience.com/) - Transform your prototype ML code into production-ready software.
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
 - [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
