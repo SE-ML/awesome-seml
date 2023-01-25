@@ -92,6 +92,7 @@ How to deploy and operate your models in a production environment.
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) 🎓
 - [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/abs/2011.03395) 🎓
 - [Versioning for end-to-end machine learning pipelines](https://doi.org/10.1145/3076246.3076248) 🎓
+- [Monitoring and Troubleshooting Models in Production](https://arize.com/blog/machine-learning-performance-tracing/)
 
 
 
@@ -125,6 +126,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
 - [Archai](https://github.com/microsoft/archai) - Neural architecture search.
+- [Arize AI](https://arize.com/) - ML observability for model performance management, drift detection, data quality checks, and model validation.
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
 - [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
