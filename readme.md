@@ -134,6 +134,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
 - [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
 - [LiFT](https://github.com/linkedin/LiFT) - Linkedin fairness toolkit.
+- [Mage](https://www.mage.ai/) - A data pipeline tool for transforming and integrating data.
 - [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, deployment, and a central model registry.
 - [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates the generation of model cards; for model documentation.
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
