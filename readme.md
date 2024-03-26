@@ -128,6 +128,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
 - [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
+- [Giskard](https://github.com/Giskard-AI/giskard) - Python library dedicated to testing ML models.
 - [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets with text pointers inside Git.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Data validation and testing with integration in pipelines.
 - [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
